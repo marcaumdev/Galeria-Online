@@ -1,12 +1,228 @@
 {
   "Version": 1,
-  "Hash": "AiQF5ECF9Cj7UpB5ixvXao1WRMuDWJhWDcazbICmxRc=",
+  "Hash": "kA8GhG8CLF8oTXzJJyd5GX2stPlF7WkExx7Q1ypWzBU=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "GaleriaOnline.WebApi\\wwwroot",
+      "Source": "GaleriaOnline.WebApi",
+      "ContentRoot": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/0200aab0-b86d-4132-a4a4-97057339b071#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8pu7qhcfs",
+      "Integrity": "sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "SourceId": "GaleriaOnline.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
+      "BasePath": "_content/GaleriaOnline.WebApi",
+      "RelativePath": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8pu7qhcfs",
+      "Integrity": "sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "imagens/0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "AssetFile": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 17:52:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/0200aab0-b86d-4132-a4a4-97057339b071.v8pu7qhcfs.jpg",
+      "AssetFile": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 17:52:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8pu7qhcfs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/0200aab0-b86d-4132-a4a4-97057339b071.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "AssetFile": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 17:54:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222.v8pu7qhcfs.jpg",
+      "AssetFile": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Aug 2025 17:54:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8pu7qhcfs"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sQX4dScPWCjkpLPgS+3tcJ5pE62QlIdqSUXW50R+XJU="
+        }
+      ]
+    }
+  ]
 }
