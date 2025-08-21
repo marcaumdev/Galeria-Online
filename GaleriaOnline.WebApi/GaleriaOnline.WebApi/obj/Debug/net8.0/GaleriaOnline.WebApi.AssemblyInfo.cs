@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GaleriaOnline.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96fa40314557b1f2d8548f89d483b1cf5d92efdf")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a754a3c9644ed06f9cad5e4bbf4aba8a38bb1415")]
+>>>>>>> 4a10907d9e196a573758a48776263b48a5b53f04
 [assembly: System.Reflection.AssemblyProductAttribute("GaleriaOnline.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GaleriaOnline.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
