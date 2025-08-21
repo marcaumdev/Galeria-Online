@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Galeria-Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg",
       "PackagePath": "staticwebassets\\imagens\\0200aab0-b86d-4132-a4a4-97057339b071.jpg"
     },
     {
-      "Id": "C:\\Users\\Marcos Vinicius\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
+      "Id": "C:\\Users\\admin\\Desktop\\Galeria-Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg",
       "PackagePath": "staticwebassets\\imagens\\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Galeria-Online\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp",
+      "PackagePath": "staticwebassets\\imagens\\3e227206-e671-46c9-9e42-521042d1952d.webp"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
