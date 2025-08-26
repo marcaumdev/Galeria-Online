@@ -34,11 +34,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-<<<<<<< HEAD
+
 //A SEQUENCIA IMPORTA MUITO! CUIDADO!!!!!!!!!!
 
-=======
->>>>>>> 4a10907d9e196a573758a48776263b48a5b53f04
+
 app.UseStaticFiles();
 
 app.UseHttpsRedirection();

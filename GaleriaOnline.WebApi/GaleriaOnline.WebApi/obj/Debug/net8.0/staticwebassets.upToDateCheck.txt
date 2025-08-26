@@ -1,3 +1,10 @@
 wwwroot\imagens\0200aab0-b86d-4132-a4a4-97057339b071.jpg
 wwwroot\imagens\2f7c7fb4-24ee-45b4-aed1-251765be0222.jpg
-wwwroot\imagens\3e227206-e671-46c9-9e42-521042d1952d.webp
+wwwroot\imagens\40e6af07-ab99-489c-b07f-46d6e27a182f.jpg
+wwwroot\imagens\63b295d7-f2f9-4196-80dc-7f454aa80333.jpeg
+wwwroot\imagens\7a5cc1d1-fc2a-4e82-a9d5-2819c0636134.jpeg
+wwwroot\imagens\86593924-dd3a-4a2f-8f8f-4285caec0529.jpeg
+wwwroot\imagens\a2a064f6-3ad1-434e-8dfd-01faa4c13c36.jpeg
+wwwroot\imagens\a31fba6c-c1be-4a03-8898-977882ad243f.gif
+wwwroot\imagens\c4752214-66fc-41ad-8553-d724a54bf313.jpeg
+wwwroot\imagens\fad86450-5760-4ddd-a79f-bf02188b80f7.webp

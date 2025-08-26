@@ -19,4 +19,6 @@
 .imgDoCard{
     width: 200px;
     height: 200px;
+    /* Ajusta as imagens */
+    object-fit:contain;
 }
